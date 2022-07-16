@@ -106,7 +106,10 @@ For experienced Data Scientists / Analysts, the model may look like the **Logist
 Alright, time for a real deal, we then do a similar steps to what we've done in [the previous section](#linear-regression) but this time, to calculate how the "chances" or "odds" changes in time, we need to exponentiate the coefficient because of the following derivations:
 
 $$
-\log(\frac{p}{1-p}) = \beta x + \beta_0\\
+\log(\frac{p}{1-p}) = \beta x + \beta_0
+$$
+
+$$
 \frac{p}{1-p} = e^{\beta x + \beta_0}
 $$
 
