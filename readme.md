@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a project based on the concept **Innovation of Insurances in Modern's Perspectives**. This will go over analysis on the analysis to find the trend of Insurance Businesses in Thailand and couple more of new ideas from these exploratory analyses.
+This is a project based on the concept **Innovation of Insurances in Modern's Perspectives**. This will go over analysis on the thai health statistics to find the trend of Insurance Businesses in Thailand and couple more of new ideas from these exploratory analyses.
 
 ## Exploratory Analysis of Thailand Average Age and Death Rate of Chronic Diseases over time
 
