@@ -139,6 +139,6 @@ In modern's perspective : As modern people are caring about their relatives or p
 
 I would like to thank my parents who unconditionally supported me for a long time. I wouldn't get to this point without them.
 
-I would like to thank to my high school teachers and college professors, especially ones who I actively talk with in email or any social contacts. You gave me opportunities to shine, you gave me inspirations, you gave me who I am today. Thank you so much, with regards.
+I would like to thank to my high school teachers, college professors and internship mentors, especially ones who I actively talk with in email or any social contacts. You gave me opportunities to shine, you gave me inspirations, you gave me who I am today. Thank you so much, with regards.
 
 I would like to thank my friends who supported me. Whether we just knew each other in a freshman year, or one who worked together for years, or one that being inspired by me and I am inspired by (well, you know who you are). You guys are meaning a lot to me and I would like to give an infinite thanks if I manage to get the scholarship. See you soon Australia (hopefully).
