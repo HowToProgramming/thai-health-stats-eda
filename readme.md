@@ -127,6 +127,14 @@ And here are the predictions of 2025 and 2030
 - In 2025, the estimated chance of death from chronic diseases is 12.12%
 - In 2030, the estimated chance of death from chronic diseases is 11.01%
 
+The Equation from this Regression Analysis can be written as
+
+$$
+\text{p} \approx \frac{1}{1 + e^{0.02 \cdot \text{(year - 2000)} + 1.44}}
+$$
+
+Where $p$ is the probability of Chronic Diseases Deaths in Thai People with age 30 to 70
+
 We can see that the loss from chronic diseases will decrease over time.
 
 ### Summary
